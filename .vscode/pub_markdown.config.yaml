@@ -9,7 +9,7 @@ lang: ja #en
 # html スタイルシートの指定
 #htmlTemplate: styles/html/html-style.css
 # html テンプレートの指定
-htmlTemplate: styles/html/html-template.html
+htmlTemplate: styles/html/html-simple-template.html
 # html (self-contain) テンプレートの指定
 #htmlSelfContainTemplate: styles/html/html-template.html
 # html における toc 出力要否 (false / true)
